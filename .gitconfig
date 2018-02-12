@@ -1,0 +1,14 @@
+[core]
+        editor = "vim"
+[user]
+        name = "breezzo"
+        email = "vialurt@gmail.com"
+[alias]
+        st = "status"
+        unstash = "stash pop"
+        pullr = "pull -r origin master"
+        br = "branch"
+        co = "checkout"
+        dss = "diff --shortstat"
+[credential]
+        helper = store --file ~/.git-credentials
