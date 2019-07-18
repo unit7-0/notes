@@ -1,0 +1,14 @@
+[core]
+        editor = "vim"
+        compression = 9
+        autocrlf = false
+[user]
+        name = "breezzo"
+        email = "breezzo@breezzo"
+[alias]
+        st = "status"
+        unstash = "stash pop"
+        pullr = "pull -r origin develop"
+        br = "branch"
+        co = "checkout"
+        dss = "diff --shortstat"
